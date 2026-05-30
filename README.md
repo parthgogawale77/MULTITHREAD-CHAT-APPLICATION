@@ -24,3 +24,4 @@ The Multithreaded Chat Application provides valuable experience in Java networki
 In conclusion, the Multithreaded Chat Application successfully achieves real-time communication among multiple users using Java Sockets and Multithreading. It serves as an excellent educational project for understanding networking fundamentals, thread management, and the development of scalable client-server applications. The project highlights the effectiveness of Java in building reliable and efficient communication systems.
 
 OUTPUT : 
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/17f6541f-1e58-43f5-963d-c00c4662cd76" />
